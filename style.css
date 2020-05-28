@@ -9,7 +9,6 @@ body {
   color: white;
 }
 
-
 nav, footer {
   height: 80px;
 }
@@ -20,11 +19,12 @@ nav, footer {
 
 .social a {
   color: white;
-  transition: .3s;
+  transition: .2s;
 }
 
 .social a:hover {
   color: #42efff;
+  transform: scale(1.1);
 }
 
 .box {
