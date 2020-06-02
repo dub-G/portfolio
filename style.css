@@ -102,3 +102,8 @@ nav, footer {
   }
 }
 
+@media (max-device-width: 768px) {
+  .banner {
+    height: 50vh;
+  }
+}
